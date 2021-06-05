@@ -1,0 +1,16 @@
+.form-block {
+  margin-bottom: 10px;
+}
+
+.hiddenErrorMsg {
+  display: none;
+}
+
+.displayErrorMsg {
+  display: block;
+  color: #ff0000;
+}
+
+.errorBorder {
+  border: 1px solid #ff0000;
+}
